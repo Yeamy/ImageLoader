@@ -1,6 +1,10 @@
 # ImageLoader
 A Image Loader for Android
 
+## sample
+  
+sample: http://www.appchina.com/app/com.yeamy.dnf.monsterscard
+
 ## How to use
 
 ### Initialize
